@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação completo para o App de Saldo Rápido (OBTI do Estoque): leitura e normalização de saldos da Retaguarda GB / VD+, editor avançado de expressões regulares para filtragem de produtos e volumes, matriz dinâmica pivoteada por unidade (ER/VD/Loja/HBD) e exportação em Excel XLSX formatado com dados simulados prontos.",
+  "updatedAt":  "2026-10-24T14:48:42.609466269Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

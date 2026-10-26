@@ -1,0 +1,6 @@
+{
+  "name": "OBTI do Estoque — Saldo Rápido",
+  "description": "Sistema de leitura de saldos da Retaguarda GB e VD+, filtragem avançada por expressões regulares e exportação de matriz pivoteada de estoque por unidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
